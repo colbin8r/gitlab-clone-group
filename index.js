@@ -74,8 +74,6 @@ const args = require('yargs')
 	.options(options)
 	.argv
 
-console.log(args)
-
 main(args)
 
 
